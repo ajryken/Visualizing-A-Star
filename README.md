@@ -13,7 +13,7 @@ Program runs in a web browser using HTML.
 ### Installing
 
 **ALL PLATFORMS**
-Simply open the 'index.html' file in a web browser and the visualization will run on its own. There is no menu functionality at this point, so you must refresh the page to restart the program.
+* Simply open the 'index.html' file in a web browser and the visualization will run on its own. There is no menu functionality at this point, so you must refresh the page to restart the program.
 
 ## Authors
 
