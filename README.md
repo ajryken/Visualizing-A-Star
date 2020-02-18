@@ -1,4 +1,4 @@
-# Simple C++ Linked List Implementation
+# p5.js A* Pathfinding Algorithm Visualization
 
 This is a simple p5.js visualization of the A* pathfinding algorithm.
 
